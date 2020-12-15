@@ -21,7 +21,7 @@
 
 ## 💻 Projeto
 
-Esse projeto foi desenvolvido através do bootcamp HTML Web Developer oferecido pela [Digital Innovation One - DIO](https://digitalinnovation.one/).
+Esse projeto foi desenvolvido através do bootcamp "HTML Web Developer" oferecido pela [Digital Innovation One - DIO](https://digitalinnovation.one/), orientado pela instrutora Gabriela Pinheiro.
 
 O projeto teve como objetivo recriar o famoso jogo da cobrinha. Em seu desenvolvimento se criou uma área de backgroud onde está a parte jogável do jogo. Nela aparece a cobrinha e a comida que ela deve pegar para crescer. No começo do jogo a cobrinha já começa andando para a direita. Ao ir passando pela comida a cobrinha vai crescendo em um quadradinho de seu tamanho. No jogo ao passar do limite da área jogável a cobrinha aparece na parte oposta para o jogo continuar e ela não sair do jogo. Esse processo ocorre no eixo X e no eixo Y. O jogo termina quando a cobrinha tocar o seu próprio corpo, daí é "GAME OVER".
 
@@ -36,11 +36,11 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Layout
 
-<p align="center">
-  <img alt="jogo_da_cobrinha" title="jogo_da_cobrinha" src="img/snake_game_t1.png" width="400px">
-  <img alt="jogo_da_cobrinha" title="jogo_da_cobrinha" src="img/snake_game_t2.png" width="400px">
-  <img alt="jogo_da_cobrinha" title="jogo_da_cobrinha" src="img/snake_game_t3.png" width="400px">
-  <img alt="jogo_da_cobrinha" title="jogo_da_cobrinha" src="img/snake_game_t4.png" width="400px">
+<p align="center" style="background: #f8f8f8">
+  <img alt="jogo_da_cobrinha" title="jogo_da_cobrinha" src="img/snake_game_t1.png" width="800px">
+  <img alt="jogo_da_cobrinha" title="jogo_da_cobrinha" src="img/snake_game_t2.png" width="800px">
+  <img alt="jogo_da_cobrinha" title="jogo_da_cobrinha" src="img/snake_game_t3.png" width="800px">
+  <img alt="jogo_da_cobrinha" title="jogo_da_cobrinha" src="img/snake_game_t4.png" width="800px">
 </p>
 
 
